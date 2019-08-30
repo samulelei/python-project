@@ -6,17 +6,17 @@ Kallio Bar Crawl -- README
 What will you need?
 ====================
 
-You will need at least three pieces of software to run the game.
+You will need at least three pieces of software to run the game
 1) Python compiler version 3.4.4 or newer. (may work on older versions, but the game was coded on 3.4.4.)
-2) Mariadb or similiar mysql database.
-3) Mysql-connector-python-2.1.7 or newer.
+2) Mariadb or similiar mysql database
+3) Mysql-connector-python-2.1.7 or newer
 
 
 How do I play it?
 ==================
-1) Run the kbcDbScript.sql
-2) Open the kbc.py with your python program.
-3) Run the game.
+1) Run the KBCdb.sql
+2) Open the KBCgame.py with your Python program
+3) Run the game
 
 
 How can I uninstall the game?
