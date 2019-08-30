@@ -21,4 +21,4 @@ How do I play it?
 
 How can I uninstall the game?
 ==============================
-Just delete the kbc folder that contains everything that was in this zip-file.
+Just delete the kbc folder :-)
